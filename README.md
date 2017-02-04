@@ -1,24 +1,35 @@
-# README
+# Locaweb Twitter
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
 
-* Ruby version
+## Dependencies
 
-* System dependencies
+- Ruby 2.3.3 version
+- Rails 5.0.1 version
+- Rspec
+- Capybara
 
-* Configuration
+## Installation
 
-* Database creation
+On terminal:
 
-* Database initialization
+1. `git clone git@github.com:eltonsantos/bddrails`.
+2. `cd bddrails`.
+3. `bundle install`.
+4. run `rails s`.
 
-* How to run the test suite
+## Usage
 
-* Services (job queues, cache servers, search engines, etc.)
+In your browser access `localhost:3000`.
 
-* Deployment instructions
+## Tests
 
-* ...
+
+
+## How it was developed 
+
+
+
+## Contributing
+
+Bug reports and pull requests are welcome on GitHub at https://github.com/eltonsantos/bddrails.
