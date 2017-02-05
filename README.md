@@ -8,6 +8,10 @@
 - Rails 5.0.1 version
 - Rspec
 - Capybara
+- Guard
+- Guard-rspec
+- Guard-cucumber
+- Bootstrap-sass
 
 ## Installation
 
