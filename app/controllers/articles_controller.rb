@@ -6,7 +6,7 @@ class ArticlesController < ApplicationController
   end
   
   def new
-    @article = Article.new
+    rticle = Article.new
   end
   
   def create
