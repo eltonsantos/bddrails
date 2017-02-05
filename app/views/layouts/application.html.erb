@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Bddrails</title>
+    <title>BlogApp | Bddrails</title>
     <%= csrf_meta_tags %>
 
     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
@@ -9,11 +9,7 @@
   </head>
 
   <body>
-    <% flash.each do |key, message| %>
-      <div class="text-center alert alert-<%= key == 'notice'? 'success': 'danger' %>">
-        <%= message %>
-      </div>
-    <% end %>
-    <%= yield %>
+    <%= render 'shared/header' %>
+    <%= render 'shared/main' %>
   </body>
 </html>
