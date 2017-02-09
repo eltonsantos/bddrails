@@ -1,6 +1,6 @@
-# Locaweb Twitter
+# BDD with Rails
 
-
+Application developed of the Udemy's course [Ruby on Rails 5 - BDD, RSpec and Capybara](https://www.udemy.com/ruby-rails-5-bdd-rspec-capybara).
 
 ## Dependencies
 
@@ -25,15 +25,3 @@ On terminal:
 ## Usage
 
 In your browser access `localhost:3000`.
-
-## Tests
-
-
-
-## How it was developed 
-
-
-
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/eltonsantos/bddrails.
